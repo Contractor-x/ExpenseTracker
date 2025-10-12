@@ -7,7 +7,7 @@ A simple and intuitive application to help you track your income and expenses, m
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+<!--- - [Project Structure](#project-structure)-->
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or feedback, reach out to:
-Email: example@email.com
-GitHub Issues: Create an Issue
+Email: <!--+example@email.com-->
+GitHub Issues: Create an Issue and we would respond in a jiffy.
 
 
