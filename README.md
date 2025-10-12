@@ -37,3 +37,8 @@ A simple and intuitive application to help you track your income and expenses, m
 ## To install Dependencies
  Run **npm install**
 
+## To run
+ **npm run dev**
+
+
+
