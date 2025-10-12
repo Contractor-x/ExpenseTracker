@@ -31,7 +31,7 @@ A simple and intuitive application to help you track your income and expenses, m
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/expense-tracker.git
+   git clone https://github.com/NimaZare/expense-tracker.git
    cd expense-tracker
 
 ## To install Dependencies
