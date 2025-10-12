@@ -22,10 +22,10 @@ A simple and intuitive application to help you track your income and expenses, m
 
 ## Technologies Used. 
 - **Frontend**:<!--- React.js, Tailwind CSS -->
-- **Backend** (optional): Node.js, Express.js
-- **Database** (optional): MongoDB or SQLite
+- **Backend** (optional):<!--- Node.js, Express.js -->
+- **Database** (optional):<!--- MongoDB or SQLite -->
 - **Charting**: Chart.js or D3.js
-- **Language**: JavaScript/TypeScript
+- **Language**: <!---JavaScript/TypeScript -->
 - **Other Tools**: Vite (for frontend build), npm/yarn
 
 ## Installation
