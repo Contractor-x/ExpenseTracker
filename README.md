@@ -33,3 +33,7 @@ A simple and intuitive application to help you track your income and expenses, m
    ```bash
    git clone https://github.com/username/expense-tracker.git
    cd expense-tracker
+
+## To install Dependencies
+ Run **npm install**
+
