@@ -53,17 +53,20 @@ A simple and intuitive application to help you track your income and expenses, m
 - Export Data (optional):
 - Export transactions as a CSV file for external analysis.
 
-Contributing
+## Contributing
 Contributions are welcome! To contribute:
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Make your changes and commit (git commit -m "Add your feature").
-Push to the branch (git push origin feature/your-feature).
-Open a Pull Request.
-Please ensure your code follows the project's coding standards and includes relevant tests.
-License
+- Fork the repository.
+- Create a new branch (git checkout -b feature/your-feature).
+- Make your changes and commit (git commit -m "Add your feature").
+- Push to the branch (git push origin feature/your-feature).
+- Open a Pull Request.
+
+### Please ensure your code follows the project's coding standards and includes relevant tests.
+
+## License
 This project is licensed under the MIT License.
-Contact
+
+## Contact
 For questions or feedback, reach out to:
 Email: example@email.com
 GitHub Issues: Create an Issue
