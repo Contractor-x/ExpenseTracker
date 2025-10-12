@@ -12,7 +12,7 @@ A simple and intuitive application to help you track your income and expenses, m
 - [License](#license)
 - [Contact](#contact)
 
-## Features
+## Features of Expense Tracker
 - **Add Transactions**: Record income and expenses with details like amount, category, and date.
 - **Categorize Expenses**: Organize transactions into categories (e.g., Food, Rent, Salary).
 - **Budget Management**: Set monthly budgets and track spending against them.
@@ -20,8 +20,8 @@ A simple and intuitive application to help you track your income and expenses, m
 - **Data Persistence**: Store transactions securely in a database or local storage.
 - **Responsive Design**: Use the app on desktop or mobile devices.
 
-## Technologies
-- **Frontend**: React.js, Tailwind CSS
+## Technologies Used. 
+- **Frontend**:<!--- React.js, Tailwind CSS -->
 - **Backend** (optional): Node.js, Express.js
 - **Database** (optional): MongoDB or SQLite
 - **Charting**: Chart.js or D3.js
